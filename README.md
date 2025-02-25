@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Dimitri84-git
-- 👀 I’m interested in ... void
+- 👀 I’m interested in ... machine code & neural networking
 - 🌱 I’m currently learning ... assembly
 - 💞️ I’m looking to collaborate on ... my terminal tests repo
 - 📫 How to reach me ... don't
-- 😄 Pronouns: ... nah
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... nope
 
 <!---
