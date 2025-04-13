@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimitri84-git
 - 👀 I’m interested in ... machine code & neural networking
-- 🌱 I’m currently learning ... assembly
+- 🌱 I’m currently learning ... assembly and c
 - 💞️ I’m looking to collaborate on ... my terminal tests repo
 - 📫 How to reach me ... don't
 - 😄 Pronouns: ... he/him
